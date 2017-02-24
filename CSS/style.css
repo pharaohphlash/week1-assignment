@@ -1,0 +1,39 @@
+body {
+	background: #E07700;
+	font-family: helvetica, arial, sans-serif;
+	width: 1000px;
+	margin: 0 auto;
+	font-size: 14px;
+	border-bottom: 3px solid black;
+	padding: 20px 0;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+
+img {
+	float: right;
+	width: 300px;
+	height: 300px;
+	border-radius: 50%
+}
+
+p {
+	width: 700px;
+}
+
+hr {
+	margin: 30px 0;
+
+}
+
+
+.top {
+	color: #00C1FC;
+}
