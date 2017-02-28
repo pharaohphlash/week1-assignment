@@ -1,3 +1,5 @@
+
+
 body {
 	background: #E07700;
 	font-family: helvetica, arial, sans-serif;
@@ -8,24 +10,35 @@ body {
 	padding: 20px 0;
 }
 
+body img {
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+	float: right;
+}
+
+body h3 img {
+	width: 300px;
+	height: 300px;
+	border-radius: 5%;
+	padding: 70px 20px 0px 10px;
+	
+}
+
 h1 {
 	font-size: 50px;
+	color: #006893;
 }
 
 h2 {
 	font-size: 30px;
-}
 
 
-img {
-	float: right;
-	width: 300px;
-	height: 300px;
-	border-radius: 50%
-}
+
 
 p {
 	width: 700px;
+	line-height: 30px
 }
 
 hr {
@@ -34,6 +47,11 @@ hr {
 }
 
 
+Nav a {
+	color: #853900;
+}
+
 .top {
 	color: #00C1FC;
-}
+
+
